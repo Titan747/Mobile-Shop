@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAGxPqfkGFsUa0QjJZP7Z+jRbuw5aDm7Gauj0wSCIbsMBHdZaAgwpCf56AFtmctFokJbWlVEAUdVIjP1GIpuZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Titan\\source\\repos\\MobileShop\\MobileBusiness\\MobileBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Titan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Titan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

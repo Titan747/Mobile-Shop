@@ -1,0 +1,11 @@
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\bin\Debug\Mobile.Business.dll
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\bin\Debug\Mobile.Business.pdb
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\obj\Debug\Mobile.Business.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\obj\Debug\Mobile.Business.dll
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\obj\Debug\Mobile.Business.pdb
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\obj\Debug\Mobile.Business.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\bin\Debug\Mobile.Data.dll
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\bin\Debug\Mobile.Data.pdb
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\obj\Debug\Mobile.Business.csproj.CopyComplete
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\bin\Debug\MobileService.dll
+C:\Users\Titan\source\repos\MobileShop\Mobile.Business\bin\Debug\MobileService.pdb

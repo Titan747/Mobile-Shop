@@ -1,0 +1,6 @@
+C:\Users\Titan\source\repos\MobileShop\Mobile.Data\bin\Debug\Mobile.Data.dll
+C:\Users\Titan\source\repos\MobileShop\Mobile.Data\bin\Debug\Mobile.Data.pdb
+C:\Users\Titan\source\repos\MobileShop\Mobile.Data\obj\Debug\Mobile.Data.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\MobileShop\Mobile.Data\obj\Debug\Mobile.Data.dll
+C:\Users\Titan\source\repos\MobileShop\Mobile.Data\obj\Debug\Mobile.Data.pdb
+C:\Users\Titan\source\repos\MobileShop\Mobile.Data\obj\Debug\Mobile.Data.csprojAssemblyReference.cache
